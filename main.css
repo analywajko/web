@@ -1,0 +1,30 @@
+/*
+  Team Presidential Waterfall 2.0: Andrea Nalywajko, Rania Zaki, Abigail Rees
+  IntroCS pd07 sec11
+  HW05: Stuylin' 
+  2021-02-22
+*/
+
+/*
+structure of a CSS ruleset:
+SELECTOR { 0 or more DECLARATIONS }
+where each declaration is of the form
+PROPERTY : VALUE;
+ */
+
+/* this will style all h1 elements with color red */
+h1 {
+    color: blue
+    font-style: serif 
+}
+
+/* this will style all h2 elements with color blue */
+h2 {
+    color: cyan
+    font-style: cursive
+}
+
+/* this will make the page background black */
+body {
+    background-color: black; /* bc dark mode 4 teh youngs */
+}
